@@ -1,0 +1,43 @@
+body {
+	background-image: url(images/p3.JPG);
+	background-size:100% 100%;
+	background-attachment: fixed;
+}
+#input {
+	padding-top: 100px ;
+	padding-right: 600px;
+	padding-left: 200px;
+	padding-bottom: 50px ;
+
+
+}
+.txtproject{
+	background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0, 0.5); /* Black w/opacity/see-through */
+  color: white;
+  font-weight: bold;
+  border: 3px solid #f1f1f1;
+  text-align: center;
+
+}
+.tab{
+	table-layout: fixed;
+  	width: 100%;
+  	background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0, 0.5); /* Black w/opacity/see-through */
+  color: white;
+  font-weight: bold;
+  border: 3px solid #f1f1f1;
+  text-align: center;
+
+}
+
+.erreur{
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0, 0.5); /* Black w/opacity/see-through */
+  color: white;
+  font-weight: bold;
+  border: 3px solid #f1f1f1;
+  text-align: center;
+}
+
